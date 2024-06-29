@@ -20,7 +20,7 @@
 - 랜덤 포레스트 모델로 85% 정확도 달성.
 - 고객 이탈에 영향을 미치는 주요 요인 식별.
 
-[프로젝트 저장소](https://github.com/username/churn-prediction) | [Jupyter Notebook](https://github.com/username/churn-prediction/blob/main/churn_prediction.ipynb)
+[프로젝트 저장소](https://github.com/username/churn-prediction) | [내분석결과물ㅋㅋㅋㅋㅋㅋ](https://github.com/ju-ing/temp_ml_study/blob/main/ML/project/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EA%B3%BC_%EB%94%A5%EB%9F%AC%EB%8B%9D_%EC%B4%9D%EC%A0%95%EB%A6%AC.ipynb)
 
 ---
 
